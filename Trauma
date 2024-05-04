@@ -4,7 +4,7 @@ local achievementGiver = loadstring(game:HttpGet("https://raw.githubusercontent.
 ---====== Display achievement ======---
 achievementGiver({
     Title = "Trauma Of God",
-    Desc = "You will die of Go!",
+    Desc = "You will die of God!",
     Reason = "Survive the Trauma",
     Image = "rbxassetid://17380327265"
 })
